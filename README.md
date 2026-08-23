@@ -31,7 +31,6 @@ Earn coins through the focus timer and spend them on:
 3. Auto-Petter (most useful one)
 4. Custom shades
 5. Different Bit-Bit skin colors
-6. Focus Timer
 
 **Bit-Bit also doubles as a productivity companion.**
 
